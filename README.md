@@ -99,7 +99,7 @@ This project demonstrates the application of K-Means Clustering for customer seg
 
 ## Repository Link
 
-You can find the complete code and analysis in the GitHub repository [here](your-github-repository-link).
+You can find the complete code and analysis in the GitHub repository [https://github.com/Zeeshan0991/Prodigy_ML_Task02]
 
 ## Acknowledgements
 
